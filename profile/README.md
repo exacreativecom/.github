@@ -1,4 +1,5 @@
-<div align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/98628083" />
-</div>
-<h1 align="center">Exa Creative</h1>
+<h1>Exa Creative</h1>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exacreative/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/exacreativesolution/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.exacreative@gmail.com)
