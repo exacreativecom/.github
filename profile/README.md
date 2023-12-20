@@ -1,4 +1,4 @@
 <div align="center">
-    <img width="20%" src="https://avatars.githubusercontent.com/u/98628083">
+    <img width="100%" src="https://raw.githubusercontent.com/exadigitalkreatif/.github/main/profile/wlp.png">
 </div>
 
